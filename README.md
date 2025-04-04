@@ -38,6 +38,5 @@ The model was trained on an anime face dataset using a **DCGAN architecture**. T
 ## Generating Anime Faces
 1. Visit the **[Live App](https://huggingface.co/spaces/ayesha016/This_Anime_Doesnt_Exist**.
 2. Click the "Generate Image" button.
-3. Download and use your AI-generated anime character!
 
 
